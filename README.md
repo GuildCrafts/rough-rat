@@ -16,9 +16,9 @@ _What are some appropriate quality objectives for this goal? These are statement
 - Quality rubric one: Code is readable
 - Quality rubric two: Complete all of Basic Algorithm Scripting
 - Quality rubric three: comment on algorithms to explain steps. 
-Zeze: https://www.freecodecamp.com/zezemanolo
-Alicia: 
 
+Alicia: https://www.freecodecamp.com/starrpatty28 
+Zeze: https://www.freecodecamp.com/zezemanolo
 
 Basic Algorithm Scriptiong:
 var zzs = "yolo";
